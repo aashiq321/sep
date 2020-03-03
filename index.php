@@ -9,7 +9,7 @@
 </head>
 <body align="center">
 
-<h1>Welcome To Enrollment System</h1>
+<h1>Welcome To New Enrollment System</h1>
 
 <h1>LogIn</h1>
 
